@@ -1,0 +1,4 @@
+#Mon Mar 11 22:45:53 IST 2019
+base.0=/home/rangana/Development/Flutter/AL_app_mobile-master/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

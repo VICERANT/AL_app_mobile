@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/rangana/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.1+1/android/src/main/assets"/><source path="/home/rangana/Development/Flutter/AL_app_mobile-master/build/shared_preferences/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/home/rangana/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.1+1/android/src/debug/assets"/></dataSet></merger>
